@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: transfer.app
+---
+testFramework: junit
+sourceLanguage: java
